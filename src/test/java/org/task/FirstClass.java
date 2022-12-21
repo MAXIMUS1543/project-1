@@ -27,5 +27,7 @@ public class FirstClass {
 	@AfterClass
 	public static void ac() {
 		System.out.println("ac");
+		System.out.println("cc");
+		System.out.println("dc");
 	}
 }
